@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Problems/Area of a circle/out/
+/Problems/Area of a circle/out/production/classes/
+/Problems/Distance/out/
+/Problems/Distance/out/production/classes/
+/Problems/Print  We are robots!/out/
+/Problems/Print  We are robots!/out/production/classes/
+/Readability Score/task/build/
+/Readability Score/task/out/
+/Readability Score/task/out/production/classes/
